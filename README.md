@@ -3,6 +3,14 @@
 # Memocpp
 A simple memory game written in C++.
 
+## Dependencies
+```
+cmake
+make
+g++
+ftxui(automatically built and downloaded)
+```
+
 ## Usage
 You can use vim keys(h,j,k,l) or arrow keys if you want to move around. To select a card jsut hit enter. The mouse is also supported.
 
